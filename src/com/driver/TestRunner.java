@@ -10,6 +10,8 @@ public class TestRunner {
 		//Leave.TC01_CancelLeave();
 		//Leave.TC02_ApplyLeave_VerifyInMyLeavePage();	
 		MyInfo.TC21_AddEducationDetails();
+		int a=10;	
+		System.out.println(a);
 		
 
 	}
