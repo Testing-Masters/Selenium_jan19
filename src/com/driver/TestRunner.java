@@ -12,6 +12,9 @@ public class TestRunner {
 		MyInfo.TC21_AddEducationDetails();
 		int a=10;	
 		System.out.println(a);
+		int a=10;	
+		System.out.println(a);
+		
 		
 
 	}
